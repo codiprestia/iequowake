@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahwiifiima.jothiandnathan.com/sitemap.xml
